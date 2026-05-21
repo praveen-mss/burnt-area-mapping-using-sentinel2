@@ -351,7 +351,7 @@ Some tests require optional geospatial or ML dependencies such as `rasterio` and
 
 ## Authors and Credits
 
-Developed by: Your Name / Team / Organization
+Developed by: Praveen Mutyala / NRSC / ISRO
 
 Remote sensing data source: Sentinel-2 MSI Level-2A
 
@@ -366,5 +366,5 @@ MIT License. You are free to reuse, modify, and extend this project.
 For support, open a GitHub issue or contact:
 
 ```text
-your.email@example.com
+mutyala45@example.com
 ```
