@@ -33,7 +33,7 @@ logging.
 ## Project Structure
 
 ```text
-ba-rf-pipeline-codex/
+burnt-area-mapping-using-sentinel2/
 |
 |-- configs/
 |   |-- train.yaml                 # Training data path, features, model settings
@@ -105,8 +105,8 @@ ba-rf-pipeline-codex/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ba-rf-pipeline-codex.git
-cd ba-rf-pipeline-codex
+git clone https://github.com/ypraveen-mss/burnt-area-mapping-using-sentinel2.git
+cd burnt-area-mapping-using-sentinel2
 ```
 
 ### Install Requirements
