@@ -105,7 +105,7 @@ burnt-area-mapping-using-sentinel2/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ypraveen-mss/burnt-area-mapping-using-sentinel2.git
+git clone https://github.com/praveen-mss/burnt-area-mapping-using-sentinel2.git
 cd burnt-area-mapping-using-sentinel2
 ```
 
