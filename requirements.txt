@@ -1,0 +1,11 @@
+joblib
+mlflow
+numpy
+pandas
+pyproj
+PyYAML
+rasterio
+scikit-learn
+scipy
+shap
+xgboost

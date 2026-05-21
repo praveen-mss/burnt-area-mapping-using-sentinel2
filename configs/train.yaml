@@ -1,0 +1,23 @@
+csv_path: data/training/odisha_training_bhoonidhi.csv
+label_col: Class
+model_output_path: models/latest_model.pkl
+
+features:
+  - B11
+  - B12
+  - B02
+  - B03
+  - B04
+  - B08
+  - BAI
+  - GEMI
+  - MIRBI
+  - NBR1
+  - NBR2
+  - NDMI
+  - NDVI
+  - NDWI
+  - SAVI
+
+tune: false
+use_ensemble: true

@@ -1,0 +1,25 @@
+data_root: data/raw
+output_root: data/processed
+output_root_final: data/outputs
+model_registry: models/registry
+
+threshold_source: user   # user or registered
+threshold: 0.5
+max_workers: 4
+
+postprocessing:
+
+  mmu:
+    enabled: false
+    pixels: 2     # 0.1 ha at 20m is about 2 pixels
+
+  masks:
+    use_water: true
+    use_urban: false
+    use_forest: false
+    use_agriculture: false
+    mask_path: data/auxillary
+
+  temporal_consistency:
+    enabled: true
+    window: 2     # require detection within +/-2 acquisitions

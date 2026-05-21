@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local data and model artifacts
+data/raw/
+data/processed/
+data/outputs/
+models/
+mlruns/
+*.db
+*.pkl
+*.tif
+*.tif.aux.xml
+*.jp2
+
+# Scratch files
+file.txt
